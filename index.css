@@ -5,7 +5,9 @@ h1{
 .cont-1{
     background-color: transparent;
     border-radius: 15px;
-    height: 21rem;width: 90%;margin: 2rem auto;
+    height: auto;
+    width: 90%;
+    margin: 2rem auto;
     text-align: center;
     border: solid rgb(189, 183, 183) 2pt;
 }
