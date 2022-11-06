@@ -36,3 +36,7 @@ button{
 h2{
     color: cornflowerblue;
 }
+@media screen and (max-width: 809px){
+    h1{font-size: 4rem !important;font-weight: 600;}
+    .cont-1{height: auto;}
+}
