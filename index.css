@@ -37,10 +37,7 @@ button{
 h2{
     color: cornflowerblue;
 }
-<<<<<<< HEAD:curr.css
 @media screen and (max-width: 809px){
     h1{font-size: 4rem !important;font-weight: 600;}
     .cont-1{height: auto;}
 }
-=======
->>>>>>> c84e60fef59294704c81e56e6d1f7018511fa7e5:index.css
